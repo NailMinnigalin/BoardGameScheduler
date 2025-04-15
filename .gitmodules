@@ -1,0 +1,6 @@
+[submodule "boardgameschedulerfrontend"]
+	path = boardgameschedulerfrontend
+	url = https://github.com/NailMinnigalin/boardgameschedulerfrontend.git
+[submodule "BoardGameSchedulerBackend"]
+	path = BoardGameSchedulerBackend
+	url = https://github.com/NailMinnigalin/BoardGameSchedulerBackend.git
